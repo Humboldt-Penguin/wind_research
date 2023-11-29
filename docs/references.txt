@@ -1,0 +1,41 @@
+###################################################################################
+------------
+General Use:
+------------
+
+Sentinel-1 data:
+    - OCN, direct download
+        > Copernicus Sentinel data 2019-2023. Retrieved from ASF DAAC 03/10/2023, processed by ESA.
+        - Guide:
+            - https://asf.alaska.edu/data-sets/sar-data-sets/sentinel-1/sentinel-1-how-to-cite/
+    - SAR, cloud access
+        > Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). Google Earth Engine: Planetary-scale geospatial analysis for everyone. Remote Sensing of Environment.
+        - 'Sentinel-1 SAR GRD: C-band Synthetic Aperture Radar Ground Range Detected'
+            - https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD#description
+
+
+
+Python wrapper for the ASF SearchAPI:
+    > asf_search, (2023), GitHub repository, https://github.com/asfadmin/Discovery-asf_search
+
+
+
+Coordinates of all offshore wind turbines:
+    - Zenodo dataset:
+        > Hoeser, Thorsten, & Kuenzer, Claudia. (2022). DeepOWT: A global offshore wind turbine data set [Data set]. In Earth System Science Data (1.21.2, Vol. 14, pp. 4251–4270). Zenodo. https://doi.org/10.5281/zenodo.5933967
+    - Original publication:
+        > Hoeser, T., Feuerstein, S., & Kuenzer, C. (2022). DeepOWT: A global offshore wind turbine data set derived with deep learning from sentinel-1 data. Earth System Science Data, 14(9), 4251–4270. https://doi.org/10.5194/essd-14-4251-2022 
+
+
+
+
+
+###################################################################################
+------------
+Future:
+------------
+
+
+
+
+TODO: convert all of this to a latex doc, with a proper header -> description format and citations at the bottom.

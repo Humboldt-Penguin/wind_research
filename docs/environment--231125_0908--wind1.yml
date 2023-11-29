@@ -1,0 +1,15 @@
+﻿name: wind1
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - earthengine-api
+  - asf_search
+  - netcdf4
+  - cartopy
+  - folium
+  - geemap
