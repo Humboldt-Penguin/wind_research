@@ -1,0 +1,28 @@
+﻿name: wind2
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  # core
+  - numpy
+  - pandas
+  - scipy
+  - xarray
+  - matplotlib
+  - hvplot
+  # ee
+  - earthengine-api
+  - geemap
+  - eemont
+  - wxee
+  - xee
+  # sar
+  - sarpy
+  # geo
+  - netcdf4
+  - cartopy
+  - folium
+  - rasterio
+  - pip
+  - pip:
+    - hydrafloods
